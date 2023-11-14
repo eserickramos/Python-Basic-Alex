@@ -1,0 +1,11 @@
+Palabr< exclusivas de lengiaje Python 28 en total
+
++And +del +for +is +raise +assert 
+
++if +else +elif +from +lambda +return
+
++brack +global +not +try +class +except
+
++or +while +continue +exec +import +yield 
+
++def +finally +in +print 
